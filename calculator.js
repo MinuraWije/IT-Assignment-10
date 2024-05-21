@@ -22,7 +22,6 @@ $(document).ready(function(){
                 currentEntry = btnPressed;
             else currentEntry = currentEntry + btnPressed;
 
-
         }
         else if (isOperator(btnPressed)) {
 
